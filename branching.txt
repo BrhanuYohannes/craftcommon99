@@ -1,0 +1,4 @@
+1 new branching steps
+-git branch--to check the exist branches
+bit branch<branch.name> --to create new branch
+git checkout <branch-name> to switche
